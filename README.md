@@ -9,4 +9,6 @@ A simple TicTacToe game (with a slight twist) in Java. I made this project for m
 
 Installation : Just clone the repository and run it directly through your IDE.
 
+*Note that this game only has language support for german. English version coming soon ? :\
+
 Have fun ! 🐧
