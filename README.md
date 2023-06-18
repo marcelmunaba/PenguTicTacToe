@@ -1,7 +1,7 @@
 # PenguTicTacToe
 PenguTicTacToe 🐧
 
-A simple TicTacToe game (with a slight twist) in Java. I made this project for my university course "PGdP" week 9.
+A simple TicTacToe game (with a slight twist) in Java. I made this project for my university course "PGdP" week 9. The rule of the game is on the .png file "Spielregeln.png" (in german).
 
 ![Screenshot 2023-06-18 143318](https://github.com/marcelmunaba/PenguTicTacToe/assets/70313979/04202c13-277d-4d0a-b36c-c42d28d95139)
 
