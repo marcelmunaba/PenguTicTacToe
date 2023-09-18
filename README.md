@@ -7,7 +7,7 @@ A simple TicTacToe game (with a slight twist) in Java. I made this project for m
 
 ![Screenshot 2023-06-18 143325](https://github.com/marcelmunaba/PenguTicTacToe/assets/70313979/4f51f78a-efda-4c45-979a-15be3cc7a8e8)
 
-Installation : Just clone the repository and run it directly through your IDE.
+Installation : Just clone the repository and run it directly through your IDE. Or you can download the .EXE file (Windows users only)
 
 *Note that this game only has language support for german. English version coming soon ? :\
 
